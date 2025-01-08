@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "181028636218",
+    "firebase_url": "https://final-project-ef515-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "final-project-ef515",
+    "storage_bucket": "final-project-ef515.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181028636218:android:03b1d2d3a3341999c71703",
+        "android_client_info": {
+          "package_name": "com.example.helpassistance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOvXVNLfTgNNK6TKIiHmUZnhKaGj1TnuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
